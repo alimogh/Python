@@ -1,0 +1,6 @@
+*.pyc
+*.log
+.idea
+__pycache__
+database
+secrets.json
